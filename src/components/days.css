@@ -1,0 +1,87 @@
+.days:hover {
+  /* background-color: aliceblue; */
+  background-color: darkslategrey;
+}
+.days:hover p {
+  /* font-size: 20px; */
+  margin: 10px;
+}
+.days:hover .circle {
+  margin: 10px;
+  /* width: 40px;
+  height: 40px; */
+}
+.name {
+  opacity: 1;
+}
+.namemonth{
+  font-size: 20px;
+}
+.days p {
+  transition: 0.3s;
+}
+.days {
+  background-color: #191919;
+  color: #ecdbba;
+  /* border-radius: 15px; */
+  transition: 0.3s;
+  /* opacity: 0.5; */
+}
+
+.heading {
+  color: #ecdbba;
+}
+/* .loginsign,
+.or {
+  position: fixed;
+  floa;
+} */
+.loginsign{
+  /* display: inline-block; */
+  position: relative;
+  float: right;
+}
+.or {
+  color: white;
+  padding-right: 17px;
+}
+.navhead {
+  display: inline-block;
+  position: relative;
+  /* float: left; */
+
+}
+.logo,.title, .today, .titlemonth{
+  display: inline-block;
+  position: relative;
+  
+}
+
+.pencil{
+  color: white;
+}
+
+/* .navbarleft{
+  position: absolute;
+  /* float: left; */
+
+.month {
+  width: 500px;
+}
+.buttonhover:hover {
+  background-color: #0047ab;
+}
+.buttonhover {
+  transition: 0.2s;
+}
+
+.createModalInput {
+  background-color: #191919;
+  color: white;
+  border-radius: 5px;
+}
+
+.welcometxt{
+  color: aliceblue;
+  font-size: 25px;
+}
